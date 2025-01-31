@@ -2,6 +2,12 @@
 
 Using VIM as a simple tool for data annotation.
 
+## Prerequisites  
+
+- You have VIM installed, https://www.vim.org/
+- You have python installed
+- You (kind of) know your way around VIM and python, e.g. how to source files from your ~/.vimrc
+
 ## Highlights 
 
 Create VIM shortcuts that add annotations to a text files, for annotating
