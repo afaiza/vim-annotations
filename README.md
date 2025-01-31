@@ -15,12 +15,12 @@ The functions make_negative() and make_positive() in the file phrase_classificat
 It creates the following shortcuts
 
 - zn - makes the column sentiment_orientation negative for this line
-- zp - makes the column sentiment_orientation negative for this line
+- zp - makes the column sentiment_orientation positive for this line
 - zq - clear annotation
 
 ### Word classification
 
-The file word_annotations.vim contains shortcuts that surround a visual block with a tag.
+The file word_classification.vim contains shortcuts that surround a visual block with a tag.
 
 It also contains a the shortcut ce that deletes an annotation and ,2 that merges two annotations in the same line, if they don't have space between them
 
