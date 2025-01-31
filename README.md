@@ -16,7 +16,7 @@ Create VIM shortcuts that add annotations to a text files, for annotating
 
 ### Phrase classification
 
-The functions make_negative() and make_positive() in the file phrase_classification.vim assume that you have a tab separated file (tsv) that has a header, and this header contains the columns "text" and "sentiment_orientation".
+The functions make_negative() and make_positive() in the file phrase_level_annotation.vim assume that you have a tab separated file (tsv) that has a header, and this header contains the columns "text" and "sentiment_orientation".
 
 It creates the following shortcuts
 
@@ -26,7 +26,7 @@ It creates the following shortcuts
 
 ### Word classification
 
-The file word_classification.vim contains shortcuts that surround a visual block with a tag.
+The file word_level_annotation.vim contains shortcuts that surround a visual block with a tag.
 
-It also contains a the shortcut ce that deletes an annotation and ,2 that merges two annotations in the same line, if they don't have space between them
+It also contains a the shortcut ce that deletes an annotation and ,2 that merges two annotations in the same line, if they don't have anything but spaces between them
 
