@@ -12,7 +12,7 @@ Using VIM as a simple tool for data annotation.
 
 Create VIM shortcuts that add annotations to a text files, for annotating
  - phrase classification - tasks like sentiment analysis
- - words classificatio - tasks like and named entity recognition. 
+ - words classification - tasks like named entity recognition. 
 
 ### Phrase classification
 
