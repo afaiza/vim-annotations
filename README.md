@@ -44,7 +44,7 @@ It creates the following shortcuts
 - cn - annoate the visual block as PERSON
 - cr - annoate the visual block as CURRENCY
 - ,1 - annoate the visual block as REPLACE_ME
-- ce - clear the annotation
+- ce - clear the annotation. Note - put your cursor on the content of the annotation you want to delete. 
 
 | Original | you press cn | you press ce |
 | -------- | ------------ | ------------ |
