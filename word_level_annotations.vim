@@ -1,4 +1,3 @@
-" I nailed it, it works. 
 
 map  ce :py3 remove_tag_utf8()<CR>
 map ,2 :py3 unify_tags()<CR>
