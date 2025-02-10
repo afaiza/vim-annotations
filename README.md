@@ -24,6 +24,12 @@ It creates the following shortcuts
 - zp - makes the column sentiment_orientation positive for this line
 - zq - clear annotation
 
+| Original | you press zn | you press zq |
+| -------- | ------------ | ------------ |
+| ![image](https://github.com/user-attachments/assets/6f908aa7-de2c-4658-aea1-5a0a6dde0a9f) | ![image](https://github.com/user-attachments/assets/df5e827d-8a36-4cc3-99ad-c26169fcac30) | ![image](https://github.com/user-attachments/assets/27348530-604f-438c-b612-1493fb601dcb) |
+
+
+
 ### Word classification
 
 The file word_level_annotation.vim contains shortcuts that surround a visual block with a tag.
